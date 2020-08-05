@@ -2,9 +2,9 @@
 My dotfiles, very messy.
 
 # Setup (A-Z)
-* Browser: Brave-browser
+* Browser: Brave-browser (GTK+ Theme)
 * Compositor: Tryone144's picom fork (https://github.com/tryone144/picom)
-* Distro: Linux mint 19.3 Cinnamon
+* Distro: Linux mint 19.3 Cinnamon (Ubuntu)
 * Editor: nano/sublime-text
 * GTK Theme: Custom Iceberg
 * GTK Icons: Papirus
