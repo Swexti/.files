@@ -1,5 +1,5 @@
 # .files
-My dotfiles, very messy.
+My dotfiles, very messy. currently empty.
 
 # Setup (A-Z)
 * Browser: Brave-browser (GTK+ Theme)
