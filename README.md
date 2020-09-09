@@ -11,4 +11,4 @@ My dotfiles, very messy. currently empty.
 * Kernel: Linux 5.7.12-xanmod1
 * Search Engine: DuckDuckGo
 * Terminal: Kitty
-* WM/DE: XMonad (The best Window Manager!)
+* WM: XMonad (The best Window Manager!)
